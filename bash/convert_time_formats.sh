@@ -9,6 +9,7 @@ fi
 # Input time string
 time_string="$1"
 
+#trial
 # List of time formats
 formats=(
     "%Y-%m-%d %H:%M:%S"  # YYYY-MM-DD HH:MM:SS
